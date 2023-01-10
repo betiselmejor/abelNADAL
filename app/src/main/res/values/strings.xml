@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+
+    <string-array name="generes_array">
+        <item>Masculi</item>
+        <item>Femeni</item>
+        <item>Tanc sovietic</item>
+        <item>Altres</item>
+    </string-array>
+
+
+</resources>
